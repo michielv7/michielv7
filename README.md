@@ -27,7 +27,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![flask](https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![flask](https://img.shields.io/badge/flask-e8e4c9?style=for-the-badge&logo=flask&logoColor=black)
 
 
 ### Blockchain Development
