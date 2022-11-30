@@ -30,14 +30,9 @@
 
 ### Blockchain Development
 
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![hyperledger](https://img.shields.io/badge/Hyperledger-021a23?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-
-### Cross Platform Development
-
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
