@@ -40,6 +40,9 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+### CMS
+![strapi](https://img.shields.io/badge/strapi-4C25D9?style=for-the-badge&logo=strapi&logoColor=white)
+
 
 ### Design Tools
 
