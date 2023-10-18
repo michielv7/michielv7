@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 My name is Michiel Verbeke, studying at [Howest Brugge](https://www.howest.be/nl/opleidingen/bachelor/toegepaste-informatica/ict-blockchain-consultant). 
+🎓 My name is Michiel Verbeke, studying at [ugent](https://studiekiezer.ugent.be/2023/schakelprogramma-tot-master-of-science-in-de-industriele-wetenschappen-informatica). 
 
 ✈️ I love **traveling**. Been to <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png" width="15px" height="10px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1920px-Flag_of_Portugal.svg.png" width="15px" height="10px">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" width="15px" height="10px">,<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_People%27s_Republic_of_Bulgaria_%281948%29.png/640px-Flag_of_People%27s_Republic_of_Bulgaria_%281948%29.png" width="15px" height="10px">, <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" width="15px" height="10px">
 
