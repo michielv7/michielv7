@@ -20,7 +20,6 @@
 
 ### Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=01D8FF)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,6 +35,7 @@
 
 ![hyperledger](https://img.shields.io/badge/Hyperledger-021a23?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![thirdweb](https://img.shields.io/badge/Thirdweb-0B031C?style=for-the-badge&logo=thirdweb&logoColor=A30BB1)
 
 
 ### Backend as a Service (BaaS)
