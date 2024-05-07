@@ -47,6 +47,11 @@
 ### CMS
 ![strapi](https://img.shields.io/badge/strapi-4C25D9?style=for-the-badge&logo=strapi&logoColor=white)
 
+### CRM
+![salesforce](https://img.shields.io/badge/Salesforce-0B031C?style=for-the-badge&logo=salesforce&logoColor=269CD9)
+
+### ERP
+![sap]()
 
 ### Design Tools
 
